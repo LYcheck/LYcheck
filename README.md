@@ -1,7 +1,16 @@
-## What's goin' on? <img src="https://raw.githubusercontent.com/LYcheck/LYcheck/master/monkeyLaptop.gif" width="30px"></h2>
-My name is Lucas Wiecek, incoming 2A Computer Engineering student at the University of Waterloo.
+## What's goin' on?</h2>
+
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/LYcheck/LYcheck/master/monkeyLaptop.gif" />
+
+### My name is Lucas Wiecek, incoming 2A Computer Engineering student
 
 I'm big on building things.
+
+- test 
+- test
+- test
+
+
 <!--
 **LYcheck/LYcheck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
