@@ -1,4 +1,4 @@
-### Howdy 👋
+## What's goin' on? <img src="https://raw.githubusercontent.com/LYcheck/LYcheck/master/monkeyLaptop.gif" width="30px"></h2>
 My name is Lucas Wiecek, incoming 2A Computer Engineering student at the University of Waterloo.
 
 I'm big on building things.
