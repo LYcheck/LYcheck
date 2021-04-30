@@ -1,5 +1,7 @@
-### Hi there 👋
+### Howdy 👋
+My name is Lucas Wiecek, incoming 2A Computer Engineering student at the University of Waterloo.
 
+I'm big on building things.
 <!--
 **LYcheck/LYcheck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
