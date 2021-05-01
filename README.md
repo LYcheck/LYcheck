@@ -1,4 +1,4 @@
-## What's goin' on? :wave:
+## How's it goin'? :wave:
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/LYcheck/LYcheck/master/monkeyLaptop.gif" />
 
