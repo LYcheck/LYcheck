@@ -6,7 +6,7 @@
 
 I like to see things come together.
 
-- Currently on a SWE co-op @ TD Payments
+- Previously on a SWE co-op @ TD Payments
 - Interested in changing lives, one backend at a time :smile:
 - Learning my way around software infrastructure and architecture
 - Open to opportunities!
