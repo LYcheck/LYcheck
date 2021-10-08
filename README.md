@@ -6,7 +6,7 @@
 
 I like to see things come together.
 
-- Previously on a SWE co-op @ TD Payments
+- Incoming SWE co-op @ Zynga
 - Interested in changing lives, one backend at a time :smile:
 - Learning my way around software infrastructure and architecture
 - Open to opportunities!
