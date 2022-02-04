@@ -1,12 +1,11 @@
-## How's it goin'? :wave:
+## Nice to meet you! :wave:
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/LYcheck/LYcheck/master/monkeyLaptop.gif" />
+<img align="right" alt="Assume this is a monkey with a laptop." src="https://raw.githubusercontent.com/LYcheck/LYcheck/master/monkeyLaptop.gif" />
 
-### I'm Lucas, 2A Computer Engineering student :computer:
+### I'm Lucas, 2B Computer Engineering student :computer:
 
-I like to see things come together.
+Oftentimes, I convert a cup of black coffee into a handful of leetcode solutions.
 
-- Incoming SWE co-op @ Zynga
-- Interested in changing lives, one backend at a time :smile:
-- Learning my way around software infrastructure and architecture
-- Open to opportunities!
+- Currently a SWE intern on the Analytics team @ Zynga
+- Passionate about building with reliability in mind
+- Seeking Fall 2022 opportunities - reach out :)
