@@ -4,7 +4,7 @@
 
 ### I'm Lucas, 2B Computer Engineering student :computer:
 
-Oftentimes, I convert a cup of black coffee into a handful of leetcode solutions.
+I convert a cups of black coffee into handfuls of leetcode solutions.
 
 - Currently a SWE intern on the Analytics team @ Zynga
 - Passionate about building with reliability in mind
