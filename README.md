@@ -6,6 +6,6 @@
 
 I convert K cups of black coffee into N handfuls of leetcode solutions.
 
-- Currently a SWE intern on the Analytics team @ Zynga
+- Previously a SWE intern at @ Zynga, TD
 - Passionate about building with reliability in mind
 - Seeking Fall 2022 opportunities - reach out :)
